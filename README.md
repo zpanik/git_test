@@ -1,4 +1,4 @@
 # git_test
 
-Hello Odin!
+Hey, Odin!
 How you doin'?
